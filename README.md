@@ -10,14 +10,3 @@ https://github.com/user-attachments/assets/ee5d7fc7-d81f-4891-b316-2a0ac45d2cdc
 
 
 
-How to run:
-
-back end
-
-```
-yan migrate
-```
-then 
-```
-yarn seed
-```
